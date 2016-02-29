@@ -1,5 +1,7 @@
 # Getting-and-Cleaning-Data-Course-Project
 Cousera - Data Science Specialization - Getting and Cleaning Data Course Project
+Carlos Orellana, Feb. 2016
+
 ### Overview
 This project is part of the "Getting and Cleaning Data" course, part of the Data Science Specialization from Coursera.
 
